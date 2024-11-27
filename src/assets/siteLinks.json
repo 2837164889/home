@@ -11,13 +11,13 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.rdhack.com/"
+    "name": "亲戚关系计算器",
+    "link": "https://home.rdhack.com/relationship"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.rdhack.com/"
+    "name": "浏览器及设备判断",
+    "link": "https://home.rdhack.com/browser"
   },
   {
     "icon": "Book",
