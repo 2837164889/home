@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.rdhack.com/"
+    "link": "https://ithack.top/"
   },
   {
     "icon": "Compass",
@@ -12,26 +12,26 @@
   {
     "icon": "CompactDisc",
     "name": "关系计算器",
-    "link": "https://home.rdhack.com/relationship"
+    "link": "#"
   },
   {
     "icon": "Cloud",
     "name": "浏览器检测",
-    "link": "https://home.rdhack.com/browser"
+    "link": "#"
   },
   {
     "icon": "Book",
     "name": "起始页",
-    "link": "https://web.rdhack.com/"
+    "link": "https://web.ithack.top/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.rdhack.com/"
+    "link": "#"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.rdhack.com/"
+    "link": "https://status.ithack.top/"
   }
 ]
